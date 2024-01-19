@@ -1,4 +1,4 @@
-const correctPassword = "mikmimik"; // Replace with your desired password
+const correctPassword = "python"; // Replace with your desired password
 
 function checkPassword() {
   const enteredPassword = document.getElementById("password").value;
